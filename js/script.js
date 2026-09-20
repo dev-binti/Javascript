@@ -43,3 +43,52 @@ let I = 4
 let r = 5
 I &&= r
 console.log(I)
+
+// operators
+
+let text1 = "Tajunnahar"
+let text2 = "Boby"
+console .log(text1 + "" + text2)
+
+let text3 = "What a very ";
+console.log(text3 += "nice day")
+
+let text4 = "i am very ";
+console.log(text4 += "happy")
+
+let text5 = "she is very "
+console.log(text5 += "angry girl")
+
+let h = 20 + 20;
+console.log(h)
+
+let j = "20" + 20;
+console.log(j)
+
+let o = "hello " + 60
+console.log(o)
+
+let U = 6
+U = 10
+console.log(U > 5)
+
+let g = 30
+let k = "30"
+console.log(g===k)
+
+let G = 50
+let K = "10"
+console.log(G !== k)
+
+// &&
+let age = 20
+let hasID = true
+console.log(age >= 17 && hasID)
+
+let username = "Tajunnahar"
+let password = "2222"
+console.log(username== "binti" && password== "123456")
+
+
+
+
